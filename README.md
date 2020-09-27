@@ -1,21 +1,14 @@
 <br>
 <div align="center">
-  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/Nextjs-ChakraUI.png" />
-
   <h4 align="center">
-     Next.js, declarative UI and design systems applied to ReactJS. Access the tutorial <a href="https://www.youtube.com/watch?v=6TEo2AxW-oQ">here</a>
+     Next.js, subscribe feature using Serverless Function + MongoDB
   </h4>
 </div>
 
 ---
 
 <p align="center">
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/eugustavo/youtube-nextjs-design-system" />
-  <img alt="Github License" src="https://img.shields.io/github/license/eugustavo/youtube-nextjs-design-system" />
-</p>
-
-<p align="center">
-  <img alt="Rocketseat" src="./.github/assets/login-rocketseat.png">
+  <img alt="Subscribe-Design" src="./.github/assets/subscribe.png">
 </p>
 
 
@@ -26,10 +19,10 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+$ git clone https://github.com/nickcarva/nextjs-serverless
 
 # Access the repository
-$ cd youtube-nextjs-design-system
+$ cd nextjs-serverless
 
 # Install the dependencies
 $ yarn install
